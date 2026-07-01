@@ -1,4 +1,4 @@
-# xHis0ka ✦
+# xHis0ka
 
 ```ascii
   ╔═╗╦ ╦╔═╗╔═╗╔╦╗╔═╗
@@ -10,15 +10,15 @@ security researcher · web3 + appsec · bug bounty hunter
 
 ---
 
-### ⚡ currently
+### currently
 - hunting web apps & APIs
 - auditing DeFi protocols
 - breaking auth flows for fun & profit
 
-### 🛠️ tools of the trade
+### tools of the trade
 `burp` · `zap` · `python` · `bash` · `gh CLI` · `Hermes agent`
 
-### 📫 signals
+### signals
 - bug bounty findings → private repos
 - writeups & thoughts → somewhere
 - collab → open an issue
