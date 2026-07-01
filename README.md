@@ -16,7 +16,7 @@ security researcher · web3 + appsec · bug bounty hunter
 - breaking auth flows for fun & profit
 
 ### tools of the trade
-`burp` · `zap` · `python` · `bash` · `gh CLI` · `Hermes agent`
+`burp` · `zap` · `python` · `bash` · `gh CLI`
 
 ### signals
 - bug bounty findings → private repos
