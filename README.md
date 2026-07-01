@@ -1,16 +1,28 @@
-## Hi there 👋
+# xHis0ka ✦
 
-<!--
-**xHis0ka/xHis0ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ascii
+  ╔═╗╦ ╦╔═╗╔═╗╔╦╗╔═╗
+  ╠═╝║ ║╚═╗║ ║ ║ ║ ║
+  ╩  ╚═╝╚═╝╚═╝ ╩ ╚═╝
+```
 
-Here are some ideas to get you started:
+security researcher · web3 + appsec · bug bounty hunter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ currently
+- hunting web apps & APIs
+- auditing DeFi protocols
+- breaking auth flows for fun & profit
+
+### 🛠️ tools of the trade
+`burp` · `zap` · `python` · `bash` · `gh CLI` · `Hermes agent`
+
+### 📫 signals
+- bug bounty findings → private repos
+- writeups & thoughts → somewhere
+- collab → open an issue
+
+---
+
+*verified findings only · zero scanner noise*
